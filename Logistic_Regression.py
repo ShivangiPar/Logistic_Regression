@@ -6,9 +6,6 @@ def sigmoid(x):
     u = 1 / (1 + np.exp(-x))
     return u
     
-
-
-
 class Logistic_Regression():
 
     def __init__(self,learn_rate,no_iteration):
