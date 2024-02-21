@@ -1,3 +1,5 @@
+# Here I am implementing the logistic regression from Scratch with almost no dependencies on any ML libraries to understand the foundational working
+
 import pandas as pd
 import numpy as np
 
